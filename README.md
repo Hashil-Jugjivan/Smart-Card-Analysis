@@ -1,8 +1,5 @@
 # Smart Card Analysis 🚋🔐
 
-**Author**: Hashil Jugjivan  
-**Course**: SC4015 – Cyber Physical System Security  
-**Institution**: Nanyang Technological University (NTU)
 
 ## Overview
 
